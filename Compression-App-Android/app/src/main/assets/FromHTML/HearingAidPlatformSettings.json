@@ -1,0 +1,38 @@
+{
+  "compressionSwitch": 1,
+  "noiseReductionSwitch": 1,
+  "AFCswitch": 1,
+  "CompNumParams": 4,
+  "compressionSettings": {
+    "Band1": [
+      5,
+      -5,
+      200,
+      500
+    ],
+    "Band2": [
+      5,
+      -10,
+      177,
+      418
+    ],
+    "Band3": [
+      5,
+      -4,
+      178,
+      466
+    ],
+    "Band4": [
+      4,
+      -25,
+      141,
+      466
+    ],
+    "Band5": [
+      4,
+      -35,
+      200,
+      389
+    ]
+  }
+}
