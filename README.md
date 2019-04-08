@@ -20,4 +20,4 @@ Components of the Web-page and Compression Smartphone App
 
 ## Getting Started
 
-A [User's Guide](Users-Guide-CompressionFitting.pdf) is provided with this project which provides all the description required for running the Compression Fitting on Smartphones.
+A [User's Guide](UsersGuide-CompressionFitting.pdf) is provided with this project which provides all the description required for running the Compression Fitting on Smartphones.
