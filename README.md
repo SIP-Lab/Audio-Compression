@@ -1,4 +1,5 @@
-# HEARING AID COMPRESSION FITTING VIA A WEB-BASED ADJUSTED SMARTPHONE APP
+# An Educational Tool For Hearing Aid Compression Fitting Via A Web-based Adjusted Smartphone App
+
 
 This GitHub repository is the code accompaniment of the following paper:
 > **An educational tool for hearing aid compression fitting via a web-based adjusted smartphone app**<br>
