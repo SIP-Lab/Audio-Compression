@@ -21,3 +21,11 @@ Components of the Web-page and Compression Smartphone App
 ## Getting Started
 
 A [User's Guide](UsersGuide-CompressionFitting.pdf) is provided with this project which provides all the description required for running the Compression Fitting on Smartphones.
+
+Requirement
+-------------------
+To run the Android version of the Compression app, it is necessary to have Superpowered SDK which can be obtained from the following link: https://superpowered.com.
+Then, adding the path of superpowered in gradle/local.properties:
+
+    superpowered.dir = /.../SuperpoweredSDK/Superpowered
+
