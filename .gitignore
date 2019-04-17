@@ -1,19 +1,8 @@
-# All the model generated files
-
-*.h5
-*.pb
-*.mlmodel
-*.tflite
-
 # All the jupyter notebook checkpoints
 .ipynb_checkpoints
 
 # Mac finder specific files
 .DS_Store
-
-# OpenCV2 Framework
-
-opencv2.framework
 
 # Xcode
 #
