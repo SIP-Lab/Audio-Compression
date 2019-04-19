@@ -15,8 +15,7 @@ All material related to our paper is available via the following links:
 |**Link**|Description
 |:-------|:----------
 |http://www.utdallas.edu/%7Ekehtar/WebBasedFitting.html| Web-based Compression Fitting 
-|http://www.utdallas.edu/%7Ekehtar/EducationalCompressionFitting.mp4| A Video Clip Demonstrating Various
-||Components of the Web-page and Compression Smartphone App
+|http://www.utdallas.edu/%7Ekehtar/EducationalCompressionFitting.mp4| A Video Clip Demonstrating Various Components of the Web-page and Compression Smartphone App
 
 ## Getting Started
 
