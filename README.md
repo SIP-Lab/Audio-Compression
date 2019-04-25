@@ -21,10 +21,15 @@ All material related to our paper is available via the following links:
 
 A [User's Guide](UsersGuide-CompressionFitting.pdf) is provided with this project which provides all the description required for running the Compression Fitting on Smartphones.
 
-Requirement
--------------------
+## Requirement
 To run the Android version of the Compression app, it is necessary to have Superpowered SDK which can be obtained from the following link: https://superpowered.com.
 Then, adding the path of superpowered in gradle/local.properties:
 
     superpowered.dir = /.../SuperpoweredSDK/Superpowered
 
+
+## Licence and citations
+The Code is licensed under a MIT license.
+
+For any utilization of the content of this repository, the following papers is expected to be cited by the user:
+1. Nasim Alamdari, Edward Lobarinas, and Nasser Kehtarnavaz, "An Educational Tool For Hearing Aid Compression Fitting Via A Web-based Adjusted Smartphone App" to appear in Proceeding of IEEE Conference on Acoustics Speech, and Signal Processing, UK, May 2019.
