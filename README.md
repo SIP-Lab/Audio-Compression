@@ -32,4 +32,5 @@ Then, adding the path of superpowered in gradle/local.properties:
 The codes are licensed under MIT license.
 
 For any utilization of the code content of this repository, the following paper needs to be cited by the user:
+
 Nasim Alamdari, Edward Lobarinas, and Nasser Kehtarnavaz, "An Educational Tool For Hearing Aid Compression Fitting Via A Web-based Adjusted Smartphone App" to appear in Proceeding of IEEE Conference on Acoustics Speech, and Signal Processing, UK, May 2019.
