@@ -28,8 +28,8 @@ Then, adding the path of superpowered in gradle/local.properties:
     superpowered.dir = /.../SuperpoweredSDK/Superpowered
 
 
-## Licence and Citation
-The Code is licensed under a MIT license.
+## License and Citation
+The codes are licensed under MIT license.
 
-For any utilization of the content of this repository, the following paper is expected to be cited by the user:
-1. Nasim Alamdari, Edward Lobarinas, and Nasser Kehtarnavaz, "An Educational Tool For Hearing Aid Compression Fitting Via A Web-based Adjusted Smartphone App" to appear in Proceeding of IEEE Conference on Acoustics Speech, and Signal Processing, UK, May 2019.
+For any utilization of the code content of this repository, the following paper needs to be cited by the user:
+Nasim Alamdari, Edward Lobarinas, and Nasser Kehtarnavaz, "An Educational Tool For Hearing Aid Compression Fitting Via A Web-based Adjusted Smartphone App" to appear in Proceeding of IEEE Conference on Acoustics Speech, and Signal Processing, UK, May 2019.
