@@ -15,14 +15,14 @@ Supporting materials related to this work are available via the following links:
 |**Link**|Description
 |:-------|:----------
 |http://www.utdallas.edu/%7Ekehtar/WebBasedFitting.html| Web-based Compression Fitting 
-|http://www.utdallas.edu/%7Ekehtar/EducationalCompressionFitting.mp4| A video clip demonstrating various components of the web-page and compression smartphone app
+|http://www.utdallas.edu/%7Ekehtar/EducationalCompressionFitting.mp4| A videoclip showing the web-based compression program and the compression app
 
 ## Getting Started
 
-A [User's Guide](UsersGuide-CompressionFitting.pdf) is provided for the codes which describes how to run them on smartphones.
+A [User's Guide](UsersGuide-CompressionFitting.pdf) is provided which describes how to run the codes on smartphones.
 
 ## Requirement
-To run the Android version of the Compression app, it is necessary to have Superpowered SDK which can be obtained from the following link: https://superpowered.com.
+To run the Android version of the compression app, it is necessary to have Superpowered SDK which can be obtained from the following link: https://superpowered.com.
 Then, need to add the path of Superpowered in gradle/local.properties:
 
     superpowered.dir = /.../SuperpoweredSDK/Superpowered
@@ -33,4 +33,4 @@ The codes are licensed under MIT license.
 
 For any utilization of the code content of this repository, the following paper needs to be cited by the user:
 
-- Nasim Alamdari, Edward Lobarinas, and Nasser Kehtarnavaz, "An Educational Tool For Hearing Aid Compression Fitting Via A Web-based Adjusted Smartphone App" Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), UK, May 2019.
+- Nasim Alamdari, Edward Lobarinas, and Nasser Kehtarnavaz, "An Educational Tool For Hearing Aid Compression Fitting Via A Web-based Adjusted Smartphone App," Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), UK, May 2019.
