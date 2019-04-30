@@ -3,7 +3,7 @@
 
 This GitHub repository is the code accompaniment of the following paper:
 > **An educational tool for hearing aid compression fitting via a web-based adjusted smartphone app**<br>
-> Nasim Alamdari, Edward Lobarinas, and Nasser Kehtarnavaz, University of Texas at Dallas<br>
+> Nasim Alamdari, Edward Lobarinas, and Nasser Kehtarnavaz - University of Texas at Dallas<br>
 > Proceedings of IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), UK, May 2019<br>
 >
 > **Abstract:** This paper presents an educational tool to learn about how hearing aid compression fitting is prescribed from a signal processing perspective. An interactive web-based program has been developed based on the widely used DSL-v5 fitting rationale. This program can be accessed and used from any internet browser to generate the parameters of compression curves that correspond to the nine frequency bands used in DSL-v5. These parameters are then transferred to a smartphone in the form of a datafile to be used by a compression app, which operates as a virtual hearing aid, running in real-time on both iOS and Android smartphones. This educational tool was found to be very easy-to-use by signal processing engineers as no programming knowledge is needed for adjusting gain across frequency bands and subsequently running the corresponding compression curves in the smartphone app to appropriately compress input sound signals.
