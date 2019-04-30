@@ -19,7 +19,7 @@ Supporting materials related to this work are available via the following links:
 
 ## Getting Started
 
-A [User's Guide](UsersGuide-CompressionFitting.pdf) is provided which describes how to run the codes on smartphones.
+A [User's Guide](UsersGuide-CompressionFitting.pdf) is provided which describes how to run the codes on smartphone platforms.
 
 ## Requirement
 To run the Android version of the compression app, it is necessary to have Superpowered SDK which can be obtained from the following link: https://superpowered.com.
